@@ -28,7 +28,11 @@
 
 - 🔹homogomo 
 - 🔹Devshield 
-- 🔹Web-os 
+- 🔹Web-os
+--- 
+
+## 📊 GitHub Stats
+![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKSHAYGHAR&show_icons=true&theme=tokyonight)
 
 ---
 
