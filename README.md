@@ -1,4 +1,4 @@
-#✋HI   
+##✋HI   
 
 "Building smart systems with code and logic."
 
@@ -26,9 +26,9 @@
 ## 🚀 Highlight Project
 **My Project Name**
 
-- 🔹 Feature 1  
-- 🔹 Feature 2  
-- 🔹 Feature 3  
+- 🔹homogomo 
+- 🔹Devshield 
+- 🔹Web-os 
 
 ---
 
