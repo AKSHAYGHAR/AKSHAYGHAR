@@ -1,4 +1,4 @@
-#✋ HI  Im  Akshay  
+#✋HI   
 
 "Building smart systems with code and logic."
 
